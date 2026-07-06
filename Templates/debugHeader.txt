@@ -1,3 +1,5 @@
+//From SansPapyrus683
+
 #include <deque>
 #include <iostream>
 #include <map>
