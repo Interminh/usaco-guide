@@ -39,7 +39,6 @@ Pick a source file and compile with your preferred compiler (example uses g++):
 - Run (stdin or redirect from a file):
   - ./blocks < input.txt
 
-If you prefer to compile many files at once, a small Makefile or script could be added (see “Suggestions” below).
 
 ---
 
